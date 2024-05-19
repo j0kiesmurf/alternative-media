@@ -1,5 +1,5 @@
 # alternative-media
-My social media project.
+My social media project. Currently, the repository has the first draft of the server's backend. The final draft is being documented and debugged a final time. 
 
  Alternative-Media is built on html, javascript, php, java, c++ and python. In this repository are the files for the publicly available code. I have made sure to leave publicly available code vague and as tutorial-like as possible. There are no identifiers, like database names or proprietary information. 
 
